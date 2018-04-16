@@ -2,7 +2,6 @@
 
 apt update
 apt install -y git zsh
-clear
 
 if [ -d "$HOME/.termux" ]; then
  mv $HOME/.termux $HOME/.termux.bak
