@@ -59,7 +59,7 @@ ZSH_THEME="gianu"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git
+  git pip extract last-working-dir autojump history history-substring-search colorize
 )
 
 source $ZSH/oh-my-zsh.sh
