@@ -156,6 +156,8 @@ You can create a new zsh config file by copying the template that we have includ
 
 ```shell
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+# termux
+cp ~/.oh-my-zsh/templates/zshrc.zsh-m-template ~/.zshrc
 ```
 
 ##### 4. Change your default shell
